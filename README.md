@@ -7,7 +7,7 @@ Simple script to update Arch look
 
 ## Usage
 ### Manual
-Simple execute via prevered shell enviroment 
+Simple execute via preferred shell environment 
 ### Automations
 Add the script to your xinitrc file `<insert_path_to_script_here> &` to set a new wallpaper every login or create a cron job if you like to run it regularly. 
 
